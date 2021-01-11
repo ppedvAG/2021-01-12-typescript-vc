@@ -2,11 +2,11 @@
 
 Ein Kurs von PPEDV :rocket:
 
-Datum: xx.xx.2021
+Datum: 12.01.2021
 
-Ort: VC / ...
+Ort: VC
 
-Format: Vollzeit / Teilzeit
+Format: Vollzeit
 
 [Agenda von diesem Kurs auf ppedv.de](https://ppedv.de/Schulung/Kurse/TypeScriptProgrammierungAngularECMAScriptJavaScriptSeminarTrainingWeiterbildung.aspx)
 

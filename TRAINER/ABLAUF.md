@@ -1,16 +1,16 @@
 # ABLAUF VOM KURS, VADZIM
 
-- [ ] Commit: [first commit]()
+
 
 ## M000 | WARMING UP
 
-- [ ] Folien: Greeter
-- [ ] Demo: [markdown](markdown.md)
-- [ ] Link: [Visual Studio Code](https://code.visualstudio.com/)
-- [ ] [vsc-shortcuts.md](shortcuts/shortcuts-vscode.md)
-- [ ] Link: [Git](https://git-scm.com)
-- [ ] [textEditorShortcuts.md](SHORTCUTS/SHORTCUTS-EDITOR.md)
-- [ ] Commit: [commit]()
+- [x] Folien: Greeter
+- [ ] Optional Demo: [markdown](markdown.md)
+- [x] Link: [Visual Studio Code](https://code.visualstudio.com/)
+- [x] [vsc-shortcuts.md](./SHORTCUTS-VSCODE.md)
+- [x] Link: [Git](https://git-scm.com)
+- [x] [textEditorShortcuts.md](./SHORTCUTS-ANY-TEXT-EDITOR.md)
+- [x] Commit: [ablauf datei befüllt](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/d1704f4e7b72088a6491e6c6fe79f97fa8eb3619)
 
 ---
 
@@ -18,10 +18,12 @@
 
 - [ ] Folien: TS > [getting started](slides/typescript.md#getting-started)
 - [ ] Link: [npm home](https://www.npmjs.com/)
-- [ ] Demo: [helloTS](getting-started/hellots.ts)
-- [ ] Übung: [login form](getting-started/login.ts)
-- [ ] Optional Demo: wenn gewünscht [emmet]()
-- [ ] Optional Demo: wenn gewünscht [js Dom Traversing]()
+- [ ] Demo: [helloTS](m001/hellots.ts)
+- [ ] Theorie: kurze Infos zu Type Narrowing und Type Assertion
+- [ ] Lab: [getInput](m001/getInput.ts)
+<!-- - [ ] Übung: [login form](getting-started/login.ts) -->
+<!-- - [ ] Optional Demo: wenn gewünscht [emmet]() -->
+<!-- - [ ] Optional Demo: wenn gewünscht [js Dom Traversing]() -->
 - [ ] Commit: [commit]()
 
 <!--

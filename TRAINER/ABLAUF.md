@@ -24,22 +24,20 @@
 <!-- - [ ] Übung: [login form](getting-started/login.ts) -->
 <!-- - [ ] Optional Demo: wenn gewünscht [emmet]() -->
 <!-- - [ ] Optional Demo: wenn gewünscht [js Dom Traversing]() -->
-- [ ] Commit: [commit]()
-
-<!--
+- [ ] Commit: [m001 done](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/bc635130ca8d47c14812724bde41b78b13fb4c88)
 
 ---
 
-## MXXX | TYPES
+## M002 | TYPES
 
-- [ ] Theorie: [types](slides/typescript.md#types)
-- [ ] Demo: [primitives](types/primitives.ts)
+- [ ] Theorie: TS.pdf > Types
+- [ ] Demo: [primitives](m002/primitives.ts)
 - [ ] Übung: [Taschenrechner](types/rechner.ts)
 - [ ] Demo: [any vs. unknown, assertion](types/anyversusunknown.ts)
 - [ ] Commit: [commit]()
 
 ---
-
+<!--
 ## MXXX | FUNCTIONS
 
 - [ ] Theorie: [functions](slides/typescript.md#functions)

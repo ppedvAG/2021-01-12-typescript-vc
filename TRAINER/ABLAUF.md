@@ -33,22 +33,25 @@
 - [ ] Theorie: TS.pdf > Types
 - [ ] Demo: [primitives inclusive any, unknown, never, void](m002/primitives.ts)
 - [ ] Übung: [Taschenrechner](m002/rechner.ts)
-- [ ] Commit: [m002 done]()
+- [ ] Commit: [m002 done](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/377c4129984a99507d2cbf7ecb629e5a5a8a43f3)
 
 ---
 
-<!--
-## MXXX | FUNCTIONS
+## M003 | FUNCTIONS
 
-- [ ] Theorie: [functions](slides/typescript.md#functions)
+- [ ] Theorie: TS.pdf > Functions
 - [ ] return type
 - [ ] function type
 - [ ] generic function
-- [ ] Demo: [functions](functions/functions.ts)
+- [ ] function with undefined value of arguments
+- [ ] Demo: [functions](m003/functions.ts)
+- [ ] Übung: [generic give names](m003/giveNames.ts)
 - [ ] Übung: [fetch-todos](functions/fetch-todos.ts)
 - [ ] Commit: [commit]()
 
 ---
+
+<!--
 
 ## MXXX | DATA STRUCTURES
 
@@ -88,6 +91,7 @@
 
 - [ ] Theorie:
 - [ ] Demo:
+- [ ] beispiele aus functions-Demo zu Function-Variablen
 - [ ] [interfaces]()
 - [ ] Commit: [commit]()
 

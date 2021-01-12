@@ -32,7 +32,7 @@
 
 - [ ] Theorie: TS.pdf > Types
 - [ ] Demo: [primitives](m002/primitives.ts)
-- [ ] Übung: [Taschenrechner](types/rechner.ts)
+- [ ] Übung: [Taschenrechner](m002/rechner.ts)
 - [ ] Demo: [any vs. unknown, assertion](types/anyversusunknown.ts)
 - [ ] Commit: [commit]()
 

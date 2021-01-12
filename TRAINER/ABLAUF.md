@@ -31,12 +31,12 @@
 ## M002 | TYPES
 
 - [ ] Theorie: TS.pdf > Types
-- [ ] Demo: [primitives](m002/primitives.ts)
+- [ ] Demo: [primitives inclusive any, unknown, never, void](m002/primitives.ts)
 - [ ] Übung: [Taschenrechner](m002/rechner.ts)
-- [ ] Demo: [any vs. unknown, assertion](types/anyversusunknown.ts)
-- [ ] Commit: [commit]()
+- [ ] Commit: [m002 done]()
 
 ---
+
 <!--
 ## MXXX | FUNCTIONS
 

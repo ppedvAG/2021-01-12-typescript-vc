@@ -67,19 +67,23 @@
 - [x] Theorie & Demo: [literal type](m005/literaltypes.ts)
 - [x] Theorie & Demo: [enum](m005/enums.ts)
 - [ ] Übung: [Pizzabestellung](m005/ue-pizza.ts)
-- [ ] Commit: [commit]()
+- [x] Commit: [m005 done](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/1534501e953d94d02e0a6088196eccade04f0bbf)
+
+---
+
+## M006 | CLASSES & INTERFACES
+
+- [x] Theorie: TS.pdf > Interfaces, Classes
+- [x] Demo: [interfaces](m006/interfaces.ts)
+- [x] Demo: [classes](m006/classes.ts)
+- [x] Commit: [m006 done]()
+
 
 <!--
 
 ---
 
-## MXXX | CLASSES & INTERFACES
 
-- [ ] Theorie:
-- [ ] Demo:
-- [ ] beispiele aus functions-Demo zu Function-Variablen
-- [ ] [interfaces]()
-- [ ] Commit: [commit]()
 
 keyOf Demo
 

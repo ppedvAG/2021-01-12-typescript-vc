@@ -39,30 +39,29 @@
 
 ## M003 | FUNCTIONS
 
-- [ ] Theorie: TS.pdf > Functions
-- [ ] return type
-- [ ] function type
-- [ ] generic function
-- [ ] function with undefined value of arguments
-- [ ] Demo: [functions](m003/functions.ts)
-- [ ] Übung: [generic give names](m003/giveNames.ts)
-- [ ] Übung: [fetch-todos](functions/fetch-todos.ts)
-- [ ] Commit: [commit]()
+- [x] Theorie: TS.pdf > Functions
+- [x] return type
+- [x] function type
+- [x] generic function
+- [x] function with undefined value of arguments
+- [x] Demo: [functions](m003/functions.ts)
+- [x] Übung: [get nodeNames](m003/giveNames.ts)
+- [x] Commit: [m003 done](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/cc8777383c774ee86eadeeab17eb2e471f84b13f)
+
+---
+
+## M004 | DATA STRUCTURES
+
+- [x] Demo: [arrays](m004/arrays.ts)
+- [x] Übung: [arrays](m004/array-foreach.ts)
+- [x] Demo: [objects](m004/objects.ts)
+- [x] Demo: [tuples](m004/tuples.ts)
+- [x] Commit: [commit]()
+- [ ] Optional Map & Set?
 
 ---
 
 <!--
-
-## MXXX | DATA STRUCTURES
-
-- [ ] Demo: [arrays](structures/arrays.ts)
-- [ ] Demo: [tuples](structures/tuples.ts)
-- [ ] Übung: [arrays](structures/ue-array-iteration.ts)
-- [ ] Demo: [objects](structures/objects.ts)
-- [ ] Commit: [commit]()
-- [ ] Optional Map & Set?
-
----
 
 ## MXXX | CUSTOM PRIMITIVES
 
@@ -71,19 +70,6 @@
 - [ ] Theorie & Demo: [enum](types/enums.ts)
 - [ ] Übung: [Pizzabestellung](types/ue-pizza.ts)
 - [ ] Commit: [commit]()
-
----
-
-## MXXX | AMBIENTS (NAMESPASES / MODULES)
-
-- [ ] Theorie:
-- [ ] Demo: [namespaces](ambients/namespaces.ts)
-- [ ] Commit: [commit]()
-
-## MXXX | DECLARATION FILES
-
-- [ ] Link: <https://definitelytyped.org/>
-- [ ] Demo: [declare](declarations/declarations.ts)
 
 ---
 
@@ -97,27 +83,11 @@
 
 ---
 
-## MXXX | DECORATORS
+## MXXX | AMBIENTS (NAMESPASES / MODULES)
 
 - [ ] Theorie:
-- [ ] Demo:
-- [ ] [commit]()
-
----
-
-## MXXX | promise?
-
-- [ ] Theorie:
-- [ ] Demo:
-- [ ] [commit]()
-
----
-
-## MXXX | service worker?
-
-- [ ] Theorie:
-- [ ] Demo:
-- [ ] [commit]()
+- [ ] Demo: [namespaces](ambients/namespaces.ts)
+- [ ] Commit: [commit]()
 
 ---
 
@@ -127,5 +97,19 @@
 - [ ] Demo:
 - [ ] [commit]()
 
--->
+---
 
+## MXXX | DECORATORS
+
+- [ ] Theorie:
+- [ ] Demo:
+- [ ] [commit]()
+
+---
+
+## MXXX | DECLARATION FILES
+
+- [ ] Link: <https://definitelytyped.org/>
+- [ ] Demo: [declare](declarations/declarations.ts)
+
+-->

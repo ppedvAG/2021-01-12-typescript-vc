@@ -56,20 +56,20 @@
 - [x] Übung: [arrays](m004/array-foreach.ts)
 - [x] Demo: [objects](m004/objects.ts)
 - [x] Demo: [tuples](m004/tuples.ts)
-- [x] Commit: [commit]()
+- [x] Commit: [m004 done](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/303ec9d91abfc0186d29eecf87850ee0806eeffc)
 - [ ] Optional Map & Set?
 
 ---
 
-<!--
+## M005 | CUSTOM PRIMITIVES
 
-## MXXX | CUSTOM PRIMITIVES
-
-- [ ] Theorie & Demo: [union](types/unions.ts)
-- [ ] Theorie & Demo: [literal type](types/literaltypes.ts)
-- [ ] Theorie & Demo: [enum](types/enums.ts)
-- [ ] Übung: [Pizzabestellung](types/ue-pizza.ts)
+- [x] Theorie & Demo: [union](m005/unions.ts)
+- [x] Theorie & Demo: [literal type](m005/literaltypes.ts)
+- [x] Theorie & Demo: [enum](m005/enums.ts)
+- [ ] Übung: [Pizzabestellung](m005/ue-pizza.ts)
 - [ ] Commit: [commit]()
+
+<!--
 
 ---
 
@@ -80,6 +80,8 @@
 - [ ] beispiele aus functions-Demo zu Function-Variablen
 - [ ] [interfaces]()
 - [ ] Commit: [commit]()
+
+keyOf Demo
 
 ---
 

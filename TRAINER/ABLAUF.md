@@ -16,9 +16,11 @@
 
 ## M001 | GETTING STARTED
 
-- [ ] Folien: TS > [getting started](slides/typescript.md#getting-started)
+- [ ] Folien: TYPESCRIPT.pdf > Getting Started
+- [ ] Folien: TYPESCRIPT.pdf > Ecosystem
 - [ ] Link: [npm home](https://www.npmjs.com/)
 - [ ] Demo: [helloTS](m001/hellots.ts)
+- [ ] Theorie: TYPESCRIPT.pdf > Types > Type Assertion
 - [ ] Theorie: kurze Infos zu Type Narrowing und Type Assertion
 - [ ] Lab: [getInput](m001/getInput.ts)
 <!-- - [ ] Übung: [login form](getting-started/login.ts) -->
@@ -30,7 +32,7 @@
 
 ## M002 | TYPES
 
-- [ ] Theorie: TS.pdf > Types
+- [ ] Theorie: TYPESCRIPT.pdf > Types > Primitives, Any, Void
 - [ ] Demo: [primitives inclusive any, unknown, never, void](m002/primitives.ts)
 - [ ] Übung: [Taschenrechner](m002/rechner.ts)
 - [ ] Commit: [m002 done](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/377c4129984a99507d2cbf7ecb629e5a5a8a43f3)
@@ -39,7 +41,7 @@
 
 ## M003 | FUNCTIONS
 
-- [x] Theorie: TS.pdf > Functions
+- [x] Theorie: TYPESCRIPT.pdf > Functions
 - [x] return type
 - [x] function type
 - [x] generic function
@@ -52,8 +54,9 @@
 
 ## M004 | DATA STRUCTURES
 
+- [x] Theorie: TYPESCRIPT.pdf > Data Structures
 - [x] Demo: [arrays](m004/arrays.ts)
-- [x] Übung: [arrays](m004/array-foreach.ts)
+- [x] Übung: [arrays foreach](m004/array-foreach.ts)
 - [x] Demo: [objects](m004/objects.ts)
 - [x] Demo: [tuples](m004/tuples.ts)
 - [x] Commit: [m004 done](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/303ec9d91abfc0186d29eecf87850ee0806eeffc)
@@ -63,6 +66,7 @@
 
 ## M005 | CUSTOM PRIMITIVES
 
+- [ ] Theorie: TYPESCRIPT.pdf > Types > Union Type
 - [x] Theorie & Demo: [union](m005/unions.ts)
 - [x] Theorie & Demo: [literal type](m005/literaltypes.ts)
 - [x] Theorie & Demo: [enum](m005/enums.ts)
@@ -73,27 +77,28 @@
 
 ## M006 | CLASSES & INTERFACES
 
-- [x] Theorie: TS.pdf > Interfaces, Classes
+- [x] Theorie: TYPESCRIPT.pdf > Interfaces, Classes
 - [x] Demo: [interfaces](m006/interfaces.ts)
 - [x] Demo: [classes](m006/classes.ts)
-- [x] Commit: [m006 done]()
+- [x] Commit: [m006 done](https://github.com/ppedvAG/2021-01-12-typescript-vc/commit/88c6acc85ef9c51f56f66ee5a94f2e6eb1a6e7b0)
 
+---
+
+## M007 | AMBIENTS (NAMESPASES / MODULES)
+
+- [ ] Demo: [namespaces](m007/namespaces.ts)
+- [ ] Commit: [commit]()
+
+## M008 | DECLARATION FILES
+
+- [ ] Link: <https://definitelytyped.org/>
+- [ ] Demo: [declare](declarations/declarations.ts)
 
 <!--
 
 ---
 
-
-
 keyOf Demo
-
----
-
-## MXXX | AMBIENTS (NAMESPASES / MODULES)
-
-- [ ] Theorie:
-- [ ] Demo: [namespaces](ambients/namespaces.ts)
-- [ ] Commit: [commit]()
 
 ---
 
@@ -113,9 +118,6 @@ keyOf Demo
 
 ---
 
-## MXXX | DECLARATION FILES
 
-- [ ] Link: <https://definitelytyped.org/>
-- [ ] Demo: [declare](declarations/declarations.ts)
 
 -->

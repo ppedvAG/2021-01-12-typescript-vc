@@ -1,6 +1,6 @@
 console.log('\n\n CLASSES');
 
-class Table implements Furniture {
+class Table implements IFurniture {
     // wenn eine Prop private sein muss, dann ist sie im Interface nicht erwähnt
     private price!: number;    
     constructor(

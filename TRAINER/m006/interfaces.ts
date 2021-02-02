@@ -3,7 +3,7 @@ console.log('\n\n INTERFACES');
 // Interfaces definieren, welche Props und Methoden Instanzen von diesem Typ haben dürfen
 // es gibt read-only Props
 // und auch optionale Props/Members
-interface Furniture {
+interface IFurniture {
     name: string
     readonly material: string
     height: number
@@ -15,7 +15,7 @@ interface Furniture {
 }
 
 // Interfaces werden in TS unter anderem auch als Datentypen verwendet
-let myTable: Furniture = {
+let myTable: IFurniture = {
     name: 'table',
     material: 'wood',
     height: 100,

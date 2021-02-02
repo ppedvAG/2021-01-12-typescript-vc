@@ -1,12 +1,22 @@
 console.log('\n\n ARRAYS');
+
+
+
 // Literale
 
-let names: string[] = ['Anna', 'Bernhardt', 'Caroline']
-let numbers: Array<number> = [34, 546.234, 143]
-let mischmasch: Array<any> = [1, true, "text"]
+let names: string[]
+names = ['Anna', 'Bernhardt', 'Caroline']
+
+let numbers: Array<number>
+numbers = [34, 546.234, 143]
+
+let mischmasch: Array<any>
+mischmasch = [1, true, "text"]
+
 
 
 // nicht generischer Konstruktor
+
 let names2 = new Array()
 let namesWithDefinedItemsAmount = new Array(4)
 
@@ -18,6 +28,7 @@ console.log('typeof names3[0] :>> ', typeof names3[0]); //string
 
 
 // generischen Konstruktor
+let numbers1 = new Array<number>()
 let numbers2 = new Array<number>(3)
 console.log('typeof numbers2[0] :>> ', typeof numbers2[0]); //undefined, obwohl Datentyp beim Konstruktor angegeben
 console.log('numbers2 :>> ', numbers2); // [empty × 3]
@@ -41,7 +52,7 @@ console.log('this.NodeList :>> ', this.NodeList); // hat weniger Methoden als Ar
 
 // let arrayFromHTMLColl = [...[myHTMLCollection]] // array aus einem El
 // let arrayFromHTMLColl = [...myHTMLCollection] // Type 'HTMLCollectionOf<HTMLLIElement>' is not an array type
-// Funktioniert in JS aber nicht in TS
+// Funktioniert in JS, aber nicht in TS
 
 let arrayFromHTMLColl = Array.from(myHTMLCollection)
 console.log('arrayFromHTMLColl :>> ', arrayFromHTMLColl); // (3) [li, li, li], also ein Array
@@ -61,6 +72,7 @@ console.log('elementsNodeNames :>> ', elementsNodeNames); // (4) ["META", "H1",
 
 
 // Array of never: []
+
 
 // Destructuring und Array
 let [a, b] = [3, 4]
